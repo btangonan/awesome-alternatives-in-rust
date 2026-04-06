@@ -198,7 +198,7 @@ I renamed the repository to "Awesome Alternatives in Rust". The original name wa
 
 #### [Spaceship](https://github.com/spaceship-prompt/spaceship-prompt)
 
-* [starship](https://github.com/starship/starship) - ☄️🌌 The minimal, blazing-fast, and infinitely customizable prompt for any shell!
+* [starship](https://github.com/starship/starship) - ☄🌌 The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 
 #### [termite](https://github.com/thestinger/termite)
 
@@ -221,6 +221,10 @@ I renamed the repository to "Awesome Alternatives in Rust". The original name wa
 * [ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 
 ### Utilities
+
+#### Claude Code /buddy
+
+* [Anima](https://github.com/btangonan/anima) - A native macOS companion for Claude Code with per-project ASCII familiars, nim token economy, and cross-session watcher. Built with Tauri v2.
 
 #### [codemod](https://github.com/facebookarchive/codemod)
 
